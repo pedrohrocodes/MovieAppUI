@@ -1,6 +1,10 @@
-# movie_app_ui
+# Flutter Movie App UI
 
-A new Flutter project.
+![First Home Screen](https://i.imgur.com/dGwx4LE.png)
+
+![Second Home Screen](https://i.imgur.com/kVFkDy9.png)
+
+![Details Screen](https://i.imgur.com/jABu7yp.png)
 
 ## Getting Started
 
