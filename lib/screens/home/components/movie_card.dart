@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:movie_app_ui/constants.dart';
 import 'package:movie_app_ui/models/movie.dart';
+import 'package:movie_app_ui/screens/details/details_screen.dart';
 
 class MovieCard extends StatelessWidget {
   final Movie movie;
