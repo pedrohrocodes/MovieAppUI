@@ -3,6 +3,8 @@ import 'package:movie_app_ui/constants.dart';
 import 'package:movie_app_ui/models/movie.dart';
 import 'dart:math' as math;
 
+import 'package:movie_app_ui/screens/home/components/movie_card.dart';
+
 class MovieCarousel extends StatefulWidget {
   @override
   _MovieCarouselState createState() => _MovieCarouselState();
