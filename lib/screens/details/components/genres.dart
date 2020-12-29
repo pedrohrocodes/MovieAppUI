@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:movie_app_ui/components/genre_card.dart';
 import 'package:movie_app_ui/constants.dart';
 import 'package:movie_app_ui/models/movie.dart';
 
