@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:movie_app_ui/models/movie.dart';
+import 'package:movie_app_ui/screens/details/components/body.dart';
 
 class DetailsScreen extends StatelessWidget {
   final Movie movie;
