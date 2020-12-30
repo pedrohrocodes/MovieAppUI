@@ -1,10 +1,6 @@
 # Flutter Movie App UI
 
-![First Home Screen](https://i.imgur.com/dGwx4LE.png)
-
-![Second Home Screen](https://i.imgur.com/kVFkDy9.png)
-
-![Details Screen](https://i.imgur.com/jABu7yp.png)
+<img src="https://i.imgur.com/dGwx4LE.png"  width="300"/> <img src="https://i.imgur.com/kVFkDy9.png"  width="300"/> <img src="https://i.imgur.com/jABu7yp.png"  width="300"/>
 
 ## Getting Started
 
