@@ -1,6 +1,6 @@
 # Flutter Movie App UI
 
-<img src="https://i.imgur.com/dGwx4LE.png"  width="300"/> <img src="https://i.imgur.com/kVFkDy9.png"  width="300"/> <img src="https://i.imgur.com/jABu7yp.png"  width="300"/>
+<img src="https://i.imgur.com/j3iPovY.jpeg"/>
 
 ## Getting Started
 
